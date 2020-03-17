@@ -4,7 +4,7 @@ title: Contact The Author
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact Meeee</h1>
   <div class="contactContent">
     <p class="intro">Let's talk Mormonism!</p>
     <p>This is where you can send me a private message to make a suggestion, ask a question or condemn me to outer darkness.</p>
