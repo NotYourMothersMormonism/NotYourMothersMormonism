@@ -92,7 +92,7 @@ gulp.task('watch', function () {
 });
 
 gulp.task('deploy', function() {
-    return gulp.src('dist/**/*', {dot: true})
+    return gulp.src('_site/**/*', {dot: true})
       .pipe(ghPages());
 });
 
