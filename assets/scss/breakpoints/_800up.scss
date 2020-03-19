@@ -56,9 +56,9 @@ HEADER STYLING
 ***************/
 
 .header {
-  height: 15em;
+  height: 18em;
   position: relative;
-  padding-bottom: 2em;
+  padding-bottom: 1.5em;
 
   .container {
     position: relative;
@@ -66,6 +66,14 @@ HEADER STYLING
     transform: translateY(-50%);
     max-width: 800px;
     overflow: hidden;
+  }
+
+  .main-title {
+    color: #FFFFFF;
+    //text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;
+    text-shadow: 2px 2px 1px lighten(black, 10%), 20px 28px 50px rgba(0, 0, 0, 0.85);
+    //text-shadow: 20px 28px 50px rgba(0, 0, 0, 0.85);
+    //text-shadow: 2px 2px 1px lighten(black, 10%);
   }
 
   h1 {
@@ -88,6 +96,7 @@ HEADER STYLING
         background: none;
         padding: 0 5px;
         border: none;
+        text-shadow: 1px 1px 1px #1D1D1D;
 
         a {
           color: white;
@@ -96,13 +105,15 @@ HEADER STYLING
           padding: 0 .25em;
 
           &:hover {
-            color: darken(white, 20%);
+            color: lighten($link-color, 10%);
+            text-shadow: 0 0 0 black;
           }
         }
 
         &.current {
-          padding-bottom: .25em;
-          border-bottom: 4px solid rgba(255, 255, 255, .4);
+          color: $link-color;
+          padding-bottom: .20em;
+          border-bottom: 4px solid $link-color;
         }
       }
     }
