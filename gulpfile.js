@@ -29,6 +29,8 @@ const prefix = require('gulp-autoprefixer');
 const cp = require('child_process');
 const cssnano = require('gulp-cssnano');
 const ghPages = require('gulp-gh-pages');
+// const markdown = require('gulp-markdown');
+// const rename = require('gulp-rename');
 
 // noinspection DuplicatedCode
 const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
@@ -80,7 +82,6 @@ gulp.task('browser-sync', gulp.series('sass', 'jekyll-build', function() {
         notify: false
     });
 }));
-
 
 /**
  * Watch scss files for changes & recompile
