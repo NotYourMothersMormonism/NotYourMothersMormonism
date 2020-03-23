@@ -5,8 +5,8 @@ http://typecast.com/blog/a-more-modern-scale-for-web-typography
 
 body {
   .intro {
-    font-size: 1.25em;
-    line-height: 1.7;
+    //font-size: 1.25em;
+    //line-height: 1.7;
   }
 }
 
@@ -85,14 +85,16 @@ h4, .h4 {
 }
 
 blockquote {
-  font-size: 1.25em; // 20px / 16px
-  line-height: 1.25; // 25px / 20px
+  //font-size: 1.25em; // 20px / 16px
+  //line-height: 1.25; // 25px / 20px
+  font-style: italic;
   padding: 0;
 }
 
 @media (min-width: 43.75em) {
   blockquote {
-    font-size: 1.5em; // 24px / 16px
-    line-height: 1.45833333; // 35px / 24px
+    font-style: italic;
+    //font-size: 1.5em; // 24px / 16px
+    //line-height: 1.45833333; // 35px / 24px
   }
 }
