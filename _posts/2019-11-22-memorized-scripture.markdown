@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mormon Memorization Madness"
-date:   2020-03-07
+date:   2019-11-22
 author: Jared Rummler
 ---
 
