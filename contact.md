@@ -4,10 +4,10 @@ title: Contact The Author
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Meeee</h1>
+  <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
     <p class="intro">Let's talk Mormonism!</p>
-    <p>This is where you can send me a private message to make a suggestion, ask a question or condemn me to outer darkness.</p>
+    <p>This is where you can send a private message to make a suggestion, ask a question or condemn me to outer darkness.</p>
   </div>
   <form action="http://formspree.io/jaredrummler@gmail.com" method="POST">
     <label for="name">Name</label>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Not Your Mother's Mormonism
 ---
 
 <div id="articles">
