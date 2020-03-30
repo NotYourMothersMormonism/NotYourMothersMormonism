@@ -29,7 +29,7 @@ From the believers perspective it can be concluded that the title page was trans
 > Joseph Smith put the seer stone into a hat, and put his face in the hat, drawing it closely around his face to exclude the light; and in the darkness the spiritual light would shine. A piece of something resembling parchment would appear, and on that appeared the writing. One character at a time would appear, and under it was the interpretation in English. Brother Joseph would read off the English to Oliver Cowdery, who was his principal scribe, and when it was written down and repeated to Brother Joseph to see if it was correct, then it would disappear, and another character with the interpretation would appear. Thus the Book of Mormon was translated by the gift and power of God, and not by any power of man.<sup>[5](#references)</sup>
 
 <figure>
-  <img src="/assets/img/2020-03-22/joseph-smith-money.webp" alt="Title page of The Book of Mormon submitted to the Library of Congress for copyright registration. Filed 11 June 1829."/>
+  <img src="/assets/img/2020-03-22/joseph-smith-money.png" alt="Title page of The Book of Mormon submitted to the Library of Congress for copyright registration. Filed 11 June 1829."/>
   <figcaption>Between 1819-1827, Joseph made money as a money digger. His role in these excursions was to use a stone in the bottom of his white top hat to view treasure beneath the earth and tell others where to dig. This image imagines what Joseph would have looked like during this period. It was made using the youngest available photos of his sons, his death mask, and a body borrowed from a contemporary. https://www.knowbrotherjoseph.com/young-joseph</figcaption>
 </figure>
 
