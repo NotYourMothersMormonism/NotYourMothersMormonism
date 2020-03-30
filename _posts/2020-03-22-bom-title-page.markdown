@@ -84,7 +84,7 @@ While the facsimile that Harris showed Professor Anthon is lost we do have a por
 
 > “Instead of ”Re-formed Egyptian” many of the “Caractors” are deformed English, as any one will observe who will compare them with English letters, figures and signs.”<sup>[10](#references)</sup>
 
-<img src="{{ '/assets/img/2020-03-22/caracters-deformed-english.png' }}" alt="https://www.missedinsunday.com/memes/scripture/caractors/"> 
+<img src="{{ '/assets/img/2020-03-22/caracters-deformed-english.png' }}" alt="https://www.missedinsunday.com/memes/scripture/caractors/">
 
 These characters have been examined in great depth by historian Dan Vogel which can be viewed on YouTube: [https://youtu.be/aMPFKZ2E4MM](https://youtu.be/aMPFKZ2E4MM)
 
