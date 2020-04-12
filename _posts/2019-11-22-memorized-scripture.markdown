@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Mormon Memorization Madness"
-date:   2019-11-22
-author: Jared Rummler
+layout:  post
+title:   "Mormon Memorization Madness"
+date:    2019-11-22
+author:  Jared Rummler
+excerpt: I don’t even have any good skills. You know like memorization skills, 1 Nephi 3:7 skills, first vision skills. Mormons only want missionaries who have great skills!
 ---
 
 <p class="intro"><span class="dropcap">W</span>hen I was a missionary in the California, Roseville mission for The Church

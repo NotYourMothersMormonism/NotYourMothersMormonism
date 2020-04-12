@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "The Wives of Joseph Smith"
-date:   2019-12-23
-author: Jared Rummler
+layout:  post
+title:   "The Wives of Joseph Smith"
+date:    2019-12-23
+author:  Jared Rummler
+excerpt: Learn more about the known 34 wives of Joseph Smith.
 ---
 
 The 34 wives of Joseph Smith haven't received the attention in Mormon history they deserve. The following paintings of Smith's wives were done by [Leslie O. Peterson](https://www.nytimes.com/2015/08/18/us/mormon-leader-joseph-smiths-34-wives-inspire-utah-artist.html). The personal histories or each wife can be found in each link below the paintings.

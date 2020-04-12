@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Title Page: Book of Mormon"
-date:   2020-03-22
-author: Jared Rummler
+layout:  post
+title:   "Title Page: Book of Mormon"
+date:    2020-03-22
+author:  Jared Rummler
+excerpt: ...One can picture Smith putting his face in his white stovepipe hat while dictating the title page to a scribe while the plates were supposedly hidden in the woods. The title page was “translated” by Smith after the storyline of the book was complete using his chocolate-colored seer stone which originally belonged to Smith’s treasure seeking companion Willard Chase...
 ---
 
 <p class="intro"><span class="dropcap">H</span>ello, friends! This is the first post in an ongoing series of what will be an in-depth analysis of the Book of Mormon. The Book of Mormon—whether you believe it is divine and historical or a 19th-century work of pseudepigrapha—has deeply influenced millions of people. I have read and studied this book over thirty times in my life. Now I will be studying it from a new perspective because I have changed my position from a true believing member of The Church of Jesus Christ of Latter-day Saints to a disbeliever. I now view the Book of Mormon as non-historical 19th-century Bible fan fiction fabricated by Joseph Smith.</p>
